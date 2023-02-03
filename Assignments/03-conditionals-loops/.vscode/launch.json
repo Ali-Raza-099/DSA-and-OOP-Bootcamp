@@ -1,0 +1,140 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch weekddaysInSwitch",
+            "request": "launch",
+            "mainClass": "weekddaysInSwitch",
+            "projectName": "03-conditionals-loops_73fe86d6"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArmstrongNumber1",
+            "request": "launch",
+            "mainClass": "ArmstrongNumber1",
+            "projectName": "03-conditionals-loops_73fe86d6"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArmstrongNumber",
+            "request": "launch",
+            "mainClass": "ArmstrongNumber",
+            "projectName": "03-conditionals-loops_73fe86d6"
+        },
+        {
+            "type": "java",
+            "name": "Launch perfectNumber",
+            "request": "launch",
+            "mainClass": "perfectNumber",
+            "projectName": "03-conditionals-loops_73fe86d6"
+        },
+        {
+            "type": "java",
+            "name": "Launch vowelAndConsonentInString",
+            "request": "launch",
+            "mainClass": "vowelAndConsonentInString",
+            "projectName": "03-conditionals-loops_73fe86d6"
+        },
+        {
+            "type": "java",
+            "name": "Launch vowelorConsonent",
+            "request": "launch",
+            "mainClass": "vowelorConsonent",
+            "projectName": "03-conditionals-loops_73fe86d6"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseSrting",
+            "request": "launch",
+            "mainClass": "reverseSrting",
+            "projectName": "03-conditionals-loops_73fe86d6"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindromeNumber",
+            "request": "launch",
+            "mainClass": "palindromeNumber",
+            "projectName": "03-conditionals-loops_73fe86d6"
+        },
+        {
+            "type": "java",
+            "name": "Launch AverageOfNumbers",
+            "request": "launch",
+            "mainClass": "AverageOfNumbers",
+            "projectName": "03-conditionals-loops_73fe86d6"
+        },
+        {
+            "type": "java",
+            "name": "Launch averageOdNumbers",
+            "request": "launch",
+            "mainClass": "averageOdNumbers",
+            "projectName": "03-conditionals-loops_73fe86d6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch calculator",
+            "request": "launch",
+            "mainClass": "calculator",
+            "projectName": "03-conditionals-loops_73fe86d6"
+        },
+        {
+            "type": "java",
+            "name": "Launch countOccurrence",
+            "request": "launch",
+            "mainClass": "countOccurrence",
+            "projectName": "03-conditionals-loops_73fe86d6"
+        },
+        {
+            "type": "java",
+            "name": "Launch evenDaysInMonth",
+            "request": "launch",
+            "mainClass": "evenDaysInMonth",
+            "projectName": "03-conditionals-loops_73fe86d6"
+        },
+        {
+            "type": "java",
+            "name": "Launch factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "03-conditionals-loops_73fe86d6"
+        },
+        {
+            "type": "java",
+            "name": "Launch largestNumberExitZero",
+            "request": "launch",
+            "mainClass": "largestNumberExitZero",
+            "projectName": "03-conditionals-loops_73fe86d6"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseNumber",
+            "request": "launch",
+            "mainClass": "reverseNumber",
+            "projectName": "03-conditionals-loops_73fe86d6"
+        },
+        {
+            "type": "java",
+            "name": "Launch subProductAndSum",
+            "request": "launch",
+            "mainClass": "subProductAndSum",
+            "projectName": "03-conditionals-loops_73fe86d6"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumPositiveNegativeEvenOdd",
+            "request": "launch",
+            "mainClass": "sumPositiveNegativeEvenOdd",
+            "projectName": "03-conditionals-loops_73fe86d6"
+        }
+    ]
+}
